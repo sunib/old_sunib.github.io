@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.2simon.nl" # the base hostname & protocol for your site
 twitter_username: simonkoudijs
 github_username: sunib
-#highlighter: rouge
+highlighter: rouge
 
 # Build settings
 markdown: kramdown

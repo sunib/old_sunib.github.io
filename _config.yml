@@ -10,6 +10,7 @@ url: "http://blog.2simon.nl" # the base hostname & protocol for your site
 twitter_username: simonkoudijs
 github_username: sunib
 highlighter: rouge
+theme: jekyll-theme-hacker
 
 # Build settings
 markdown: kramdown
